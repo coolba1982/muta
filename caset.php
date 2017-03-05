@@ -4,9 +4,7 @@ define('IN_MUTA', true);
 require(dirname(__FILE__) . '/includes/init.php');
 
 
-sdsadasdasdasdasda
-=======swedqweqweq
-ASdsserwerwr
+-----bbbb
 
 $act = value_req('act');
 $ajax = value_req('ajax');
