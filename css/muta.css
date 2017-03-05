@@ -1,0 +1,67 @@
+
+
+.muta-icon {
+    display: inline;
+    line-height: inherit;
+    vertical-align: baseline;
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    height:16px;
+    width:16px;
+    
+}
+
+
+.error-icon {
+  display: inline-block;
+  background: url("../icon/error.gif") no-repeat 0 0;
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+
+.success-icon {
+  display: inline-block;
+  background: url("../icon/success.gif") no-repeat 0 0;
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+
+.alert-icon {
+  display: inline-block;
+  background: url("../icon/alert.png") no-repeat 0 0;
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
+}
+
+
+
+
+.question-icon {
+    display: inline-block;
+    background: url("../icon/question.gif") no-repeat 0 0;
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+}
+
+
+.help-icon {
+    display: inline-block;
+    background: url("../icon/q.jpg") no-repeat 0 0;
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+    cursor:pointer;
+}
+
+.load-icon {
+    background: url("../icon/loading_1.gif") no-repeat 0 0;
+    vertical-align: middle;
+    width: 22px;
+    height: 22px;
+    cursor:pointer;
+}

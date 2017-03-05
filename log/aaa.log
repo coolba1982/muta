@@ -1,0 +1,23 @@
+[12-Sep-2014 13:18:01 UTC] PHP Fatal error:  Cannot redeclare log_muta() (previously declared in D:\phpwww\muta\includes\inc_functions.php:413) in D:\phpwww\muta\includes\inc_functions.php on line 449
+[12-Sep-2014 13:18:01 UTC] PHP Stack trace:
+[12-Sep-2014 13:18:01 UTC] PHP   1. {main}() D:\phpwww\muta\heart.php:0
+[13-Sep-2014 06:15:54 UTC] PHP Fatal error:  Cannot redeclare redirect_view() (previously declared in D:\phpwww\muta\includes\inc_functions.php:294) in D:\phpwww\muta\includes\inc_functions.php on line 318
+[13-Sep-2014 06:15:54 UTC] PHP Stack trace:
+[13-Sep-2014 06:15:54 UTC] PHP   1. {main}() D:\phpwww\muta\heart.php:0
+[13-Sep-2014 06:15:54 UTC] PHP Fatal error:  Cannot redeclare redirect_view() (previously declared in D:\phpwww\muta\includes\inc_functions.php:294) in D:\phpwww\muta\includes\inc_functions.php on line 318
+[13-Sep-2014 06:15:54 UTC] PHP Stack trace:
+[13-Sep-2014 06:15:54 UTC] PHP   1. {main}() D:\phpwww\muta\index.php:0
+[13-Sep-2014 06:15:54 UTC] PHP   2. require_once() D:\phpwww\muta\index.php:4
+[13-Sep-2014 08:53:22 UTC] PHP Parse error:  syntax error, unexpected T_STRING in D:\phpwww\muta\view\wifi.php on line 268
+[13-Sep-2014 08:53:22 UTC] PHP Stack trace:
+[13-Sep-2014 08:53:22 UTC] PHP   1. {main}() D:\phpwww\muta\wiset.php:0
+[13-Sep-2014 08:53:22 UTC] PHP   2. forward_view($view = 'wifi.php', $cache = *uninitialized*) D:\phpwww\muta\wiset.php:160
+[20-Sep-2014 11:14:59 UTC] PHP Warning:  include(view/login.php?lang=en_us) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in D:\phpwww\muta\logout.php on line 17
+[20-Sep-2014 11:14:59 UTC] PHP Stack trace:
+[20-Sep-2014 11:14:59 UTC] PHP   1. {main}() D:\phpwww\muta\logout.php:0
+[20-Sep-2014 11:14:59 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'view/login.php?lang=en_us' for inclusion (include_path='.;ROOT_PATH') in D:\phpwww\muta\logout.php on line 17
+[20-Sep-2014 11:14:59 UTC] PHP Stack trace:
+[20-Sep-2014 11:14:59 UTC] PHP   1. {main}() D:\phpwww\muta\logout.php:0
+[29-Nov-2014 12:37:54 UTC] PHP Notice:  Undefined index: plan in D:\phpwww\pingao\m\edit.php on line 140
+[29-Nov-2014 12:37:54 UTC] PHP Stack trace:
+[29-Nov-2014 12:37:54 UTC] PHP   1. {main}() D:\phpwww\pingao\m\edit.php:0
